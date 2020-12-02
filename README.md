@@ -1,15 +1,11 @@
 ### Hi there 👋
 
-<table>
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=yoovanr&count_private=true&show_icons=true&hide_border=true&custom_title=GitHub Stats" />
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoovanr&langs_count=8&exclude_repo=cordova-plugin-opentok&layout=compact&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yoovanr&count_private=true&show_icons=true&hide_border=true&custom_title=GitHub Stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoovanr&langs_count=8&exclude_repo=cordova-plugin-opentok&layout=compact&hide_border=true" />
+</a>
 
 I've been developing web and mobile apps for over 6 years. I'm a great team player, have an extreme attention to details and an efficient workflow. Besides that I'm an owner of a web and mobile development agency Spark X.
 
