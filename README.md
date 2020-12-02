@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-I've been developing web and mobile apps for over 6 years. I'm a great team player, have an extreme attention to details and an efficient workflow. Besides that I'm an owner of a web and mobile development Upwork agency Spark X.
+I've been developing web and mobile apps for over 6 years. I'm a great team player, have an extreme attention to details and an efficient workflow. Besides that I'm an owner of a web and mobile development agency Spark X.
 
 Here are the technologies I can easily apply to your next project: <br />
 🔧⠀Vue, Vuex, Vuetify, Nuxt <br />
