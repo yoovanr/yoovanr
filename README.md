@@ -11,11 +11,9 @@
   </tr>
   <tr>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yoovanr" />
     </td>
-    <td valign="top">
-      
-    </td>
+    <td valign="top"></td>
   </tr>
 </table>
 
